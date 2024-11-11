@@ -1,4 +1,5 @@
 #!/bin/bash
+# Created by George Heeres <gheeres@gmail.com>
 
 groups=('Sales' 'HumanResources' 'TechnicalOperations' 'Helpdesk' 'Research' 'Linux' 'Windows' )
 
